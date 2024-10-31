@@ -3,7 +3,7 @@
 *PT-BR*
 ## Olá!
 
-Tudo bem? Me chamo Matheus, posssuo 18 anos e entrei no mundo da programação faz uns dois anos. Estou fazendo faculdade de BSI e desejo seguir como BackEnd
+Tudo bem? Me chamo Matheus, possuo 18 anos e entrei no mundo da programação faz uns dois anos. Estou fazendo faculdade de BSI e desejo seguir como BackEnd
 
 ## Linguagens
 
