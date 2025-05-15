@@ -4,7 +4,7 @@
 
 Tenho 18 anos e estou no mundo da programação há 2-3 anos. Atualmente cursando Bacharelado em Sistemas de Informação (BSI) com foco em desenvolvimento BackEnd.
 
-![MatheusHeinzen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusHeinzen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![MatheusHeinzen's Stats](https://github-readme-stats.vercel.app/api?username=MatheusHeinzen&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 Sobre Mim
 
@@ -43,7 +43,7 @@ Tenho 18 anos e estou no mundo da programação há 2-3 anos. Atualmente cursand
 
 ## 📊 Estatísticas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHeinzen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=github-readme-stats,MatheusHeinzen.github.io)
+![MatheusHeinzen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHeinzen&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌐 Conecte-se Comigo
 
