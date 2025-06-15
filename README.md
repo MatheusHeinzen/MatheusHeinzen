@@ -8,7 +8,7 @@ Tenho 18 anos e estou no mundo da programação há 2-3 anos. Atualmente cursand
 
 ## 🚀 Sobre Mim
 
-- ⏩ Atualmente trabalhando no [**FreeLa**](https://github.com/MatheusHeinzen/Free-La) e no [**Rust-Eze Racer**](https://github.com/MatheusHeinzen/Rust-Eze-Racer)
+- ⏩ Atualmente trabalhando no [**FreeLa**](https://github.com/MatheusHeinzen/Free-La)
 - 📚 Foco atual de aprendizagem: **Flask**, **AWS** e **IA**.
 - 🏎️ Apaixonado por Fórmula 1
 - 🎮 Entusiasta de jogos
