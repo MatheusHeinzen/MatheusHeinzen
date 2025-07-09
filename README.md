@@ -9,7 +9,7 @@ Tenho 18 anos e estou no mundo da programação há 2-3 anos. Atualmente cursand
 ## 🚀 Sobre Mim
 
 - ⏩ Atualmente trabalhando em um Dashboard em Python.
-- 📚 Foco atual de aprendizagem: **Flask**, **AWS** e **IA**.
+- 📚 Foco atual de aprendizagem: **Python**, **Cloud e Containers** e **IA**.
 - 🏎️ Apaixonado por Fórmula 1
 - 🎮 Entusiasta de jogos
 - 📖 Amante de mitologia e literatura
