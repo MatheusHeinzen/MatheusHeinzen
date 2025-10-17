@@ -2,7 +2,7 @@
 
 ## 👋 Olá, seja bem-vindo ao meu perfil!
 
-Tenho 18 anos e estou no mundo da programação há 2-3 anos. Atualmente cursando Bacharelado em Sistemas de Informação (BSI) com foco em desenvolvimento BackEnd.
+Tenho 19 anos e estou no mundo da programação há 3-4 anos. Atualmente cursando Bacharelado em Sistemas de Informação (BSI) com foco em desenvolvimento BackEnd.
 Caso não seja familiar com o GitHub, possuo meu portfólio, que apresenta rapidamente os meus projetos principais até o momento.
 
 [Acesse aqui o meu Portfólio](https://matheusheinzen.github.io/Portfolio/index.html)
