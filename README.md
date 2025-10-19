@@ -11,8 +11,8 @@ Caso não seja familiar com o GitHub, possuo meu portfólio, que apresenta rapid
 
 ## 🚀 Sobre Mim
 
-- ⏩ Atualmente trabalhando em um Dashboard em Python.
-- 📚 Foco atual de aprendizagem: **Python**, **Cloud e Containers** e **IA**.
+- ⏩ Atualmente trabalhando em um aplicativo e site de organização de Finanças.
+- 📚 Foco atual de aprendizagem: **C#/.Net** e **Cloud e Containers**.
 - 🏎️ Apaixonado por Fórmula 1
 - 🎮 Entusiasta de jogos
 - 📖 Amante de mitologia e literatura
