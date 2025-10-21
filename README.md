@@ -7,7 +7,7 @@ Caso não seja familiar com o GitHub, possuo meu portfólio, que apresenta rapid
 
 [Acesse aqui o meu Portfólio](https://matheusheinzen.github.io/Portfolio/index.html)
 
-![MatheusHeinzen's Stats](https://github-readme-stats.vercel.app/api?username=MatheusHeinzen&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![MatheusHeinzen's Stats](![MatheusHeinzen's Stats](https://github-readme-stats.vercel.app/api?username=MatheusHeinzen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true))
 
 ## 🚀 Sobre Mim
 
@@ -46,7 +46,7 @@ Caso não seja familiar com o GitHub, possuo meu portfólio, que apresenta rapid
 
 ## 📊 Estatísticas
 
-![MatheusHeinzen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHeinzen&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![MatheusHeinzen's Top Languages](![MatheusHeinzen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHeinzen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact))
 
 ## 🌐 Conecte-se Comigo
 
